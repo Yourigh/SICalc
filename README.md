@@ -4,5 +4,13 @@ Engineering calculator that works with SI metric units such as Giga(G), Mega(M) 
 # UI
 
 You can easily calculate for example a cutoff frequency of a low pass filter:
-![GitHub Logo](/images/UI.png)
-Format: ![User interface](url)
+![userinterface](/images/UI.png)
+Format: ![User interface](/images/UI.png)
+
+# LabVIEW
+
+Software is programmed in LabVIEW 2013. Source code and built exe file is available in this repository.
+
+# Contribution
+
+I welcome any contribution to this project to make it even better.
