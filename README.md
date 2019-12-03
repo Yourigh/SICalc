@@ -1,5 +1,5 @@
 # SICalc
-Engineering calculator that works with [SI metric unit prefixes](https://en.wikipedia.org/wiki/Metric_prefix) such as Giga(G), Mega(M) ... Mili(m), Micro(u), Nano(n), Pico(p)
+Engineering calculator that works with [SI metric unit prefixes](https://en.wikipedia.org/wiki/Metric_prefix) such as Giga(G), Mega(M) ... Milli(m), Micro(u), Nano(n), Pico(p)
 
 # UI
 
@@ -20,7 +20,7 @@ The known prefixes are:
 * Giga(G)
 * Mega(M)
 * Kilo(k)
-* Mili(m)
+* Milli(m)
 * Micro(u)
 * Nano(n)
 * Pico(p)
