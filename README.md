@@ -29,6 +29,10 @@ The known prefixes are:
 
 Software is programmed in LabVIEW 2013. Source code and built exe file is available in this repository.
 
+LabVIEW Runtime 8.5 (2013 SP1) is needed in order to run the executable on windows. Newer version should work too.
+
+Download is possible [here](https://www.ni.com/cs-cz/support/downloads/software-products/download.labview-runtime.html#306237)
+
 # Contribution
 
 I welcome any contribution to this project to make it even better.
